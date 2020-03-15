@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class RleProgram {
 
-    // This is a comment for my Lab 6 :)
+    // This is a comment for my Lab 6 :))
 // The following method prints out the program's menu
     public static void printMenu() {
         System.out.println("\nRLE Menu");
