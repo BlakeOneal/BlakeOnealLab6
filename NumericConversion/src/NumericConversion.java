@@ -8,7 +8,7 @@ Availability: Public
 In lines 48-49, source code is from Stackoverflow.com
 (and my awesome TA Andrew helped too)
  */
-
+// This is a comment for my lab 6
 import java.util.Scanner;
 public class NumericConversion {
 
